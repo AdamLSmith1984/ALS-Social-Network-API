@@ -19,7 +19,7 @@
 ---
 [MIT License](./LICENSE) <br>
 
-Copyright (c) 2022 Haley Seymour
+Copyright (c) 2024 Adam SMith
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -99,7 +99,7 @@ Thought + Reactions <br>
 5. When finished, run CONTROL-C in terminal to end stop nodemon, and trash the session. 
 
 <br>
-Please check out this [video]() to view a demonstration of how to use this program. 
+Please check out this [video](https://drive.google.com/file/d/1D_2CCG8PNNIOYKaTCfvZJvk-1_Pa2gkk/view) to view a demonstration of how to use this program. 
 
 
 <br>
